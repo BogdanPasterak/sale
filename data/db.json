@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Receipt": 3
+  },
+  "models": {
+    "Receipt": {
+      "1": "{\"commodityId\":1,\"shopId\":1,\"dealerId\":1,\"id\":1}",
+      "2": "{\"commodityId\":2,\"dealerId\":1,\"shopId\":1,\"id\":2}"
+    }
+  }
+}
